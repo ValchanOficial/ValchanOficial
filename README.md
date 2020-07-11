@@ -1,7 +1,3 @@
-
-<p align="center">
-  <a href="https://github.com/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img src="https://uploaddeimagens.com.br/images/002/763/861/original/valchan.jpg" /></a>
-</p> 
 <p align="center">
 <a href="https://www.linkedin.com/in/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/linkedin.svg" height="30px" ></a>
 <a href="https://www.facebook.com/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/facebook.svg" height="30px" ></a>
