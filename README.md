@@ -23,3 +23,7 @@
 
 > "What we know is a drop; What we don't know is an ocean." - Isaac
 > Newton
+
+<p align="center">
+  <a href="https://github.com/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img src="https://uploaddeimagens.com.br/images/002/763/879/original/undraw_software_engineer_lvl5.png" height="400px" /></a>
+</p> 
