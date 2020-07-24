@@ -20,6 +20,8 @@
 > "What we know is a drop; What we don't know is an ocean." - Isaac
 > Newton
 
+![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=ValchanOficial&show_icons=true&theme=synthwave&icon_color=FFF&title_color=FFF&text_color=AE63FF)
+
 <p align="center">
   <a href="https://github.com/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img src="https://uploaddeimagens.com.br/images/002/763/879/original/undraw_software_engineer_lvl5.png" height="300px" /></a>
 </p> 
