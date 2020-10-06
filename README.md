@@ -22,6 +22,8 @@
 
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=ValchanOficial&show_icons=true&theme=synthwave&icon_color=FFF&title_color=FFF&text_color=AE63FF)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValchanOficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <a href="https://github.com/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img src="https://uploaddeimagens.com.br/images/002/763/879/original/undraw_software_engineer_lvl5.png" height="300px" /></a>
 </p> 
