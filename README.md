@@ -10,7 +10,7 @@
 - 👩🏻‍💻 Programming: Javascript, Typescript, NodeJS, Express, ReactJS, React Native
 - 💾 Databases: MongoDB, MySQL, Postgres
 - 🆙 I’m currently learning: NodeJS, ReactJS and React Native
-- ⚙️ Others techs: Docker, K8S, Jest, HTML5, CSS
+- ⚙️ Others techs: Docker, K8S, Jest, HTML5, CSS, Sass
 - 👯 I'm looking to collaborate on the tech communities
 - 🤔 I'm looking for help to improve my English
 - 💡 Facts about me: I love to draw, write, watch anime, read books and study
@@ -25,8 +25,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValchanOficial&layout=compact)
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external">
-    <img src="https://uploaddeimagens.com.br/images/002/910/645/original/Valchan.png" height="300px" />
+    <img src="https://uploaddeimagens.com.br/images/002/763/879/original/undraw_software_engineer_lvl5.png" height="300px" />
   </a>
 </p> 
