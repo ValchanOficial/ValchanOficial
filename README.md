@@ -24,9 +24,8 @@
 <p align="left">
   <a href="https://valchan.com.br/" target="_blank" rel="nofollow, noreferrer, noopener, external">
     <img src="https://media.giphy.com/media/X7alKxtMyDwPZmc3yj/giphy.gif" />
+    <img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/unicorn.png" width="150"/>
   </a>
 </p>
 
-
-<br><br>
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>
