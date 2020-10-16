@@ -1,9 +1,3 @@
-<p align="left">
-  <a href="https://valchan.com.br/" target="_blank" rel="nofollow, noreferrer, noopener, external">
-    <img src="https://media.giphy.com/media/X7alKxtMyDwPZmc3yj/giphy.gif" />
-  </a>
-</p><br/>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/linkedin.svg" height="30px" ></a>
 <a href="https://www.facebook.com/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/facebook.svg" height="30px" ></a>
@@ -26,5 +20,11 @@
 
 > "What we know is a drop; What we don't know is an ocean." - Isaac
 > Newton
+
+<p align="left">
+  <a href="https://valchan.com.br/" target="_blank" rel="nofollow, noreferrer, noopener, external">
+    <img src="https://media.giphy.com/media/X7alKxtMyDwPZmc3yj/giphy.gif" />
+  </a>
+</p>
 
 ![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=ValchanOficial&show_icons=true&theme=synthwave&icon_color=FFF&title_color=FFF&text_color=AE63FF)
