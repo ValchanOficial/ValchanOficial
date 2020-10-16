@@ -1,9 +1,9 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/ValchanOficial"><img src="https://github.com/ValchanOficial/ValchanOficial/social/linkedin.png" width="30"></img></a>
-<a href="https://www.facebook.com/ValchanOficial"><img src="https://github.com/ValchanOficial/ValchanOficial/social/facebook.png" width="30"></img></a>
-<a href="https://twitter.com/ValchanOficial"><img src="https://github.com/ValchanOficial/ValchanOficial/social/twitter.png" width="30"></img></a>
-<a href="mailto:valeria_padilha@yahoo.com.br?Subject=Contato&body=Ola%20Valchan"><img src="https://github.com/ValchanOficial/ValchanOficial/social/yahoo.png" width="30"></img></a>
-<a href="https://www.instagram.com/ValchanOficial"><img src="https://github.com/ValchanOficial/ValchanOficial/social/instagram.png" width="30"></img></a>
+<a href="https://www.linkedin.com/in/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/linkedin.png" width="30"></img></a>
+<a href="https://www.facebook.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/facebook.png" width="30"></img></a>
+<a href="https://twitter.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/twitter.png" width="30"></img></a>
+<a href="mailto:valeria_padilha@yahoo.com.br?Subject=Contato&body=Ola%20Valchan"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/yahoo.png" width="30"></img></a>
+<a href="https://www.instagram.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/instagram.png" width="30"></img></a>
 </p>
 
 
