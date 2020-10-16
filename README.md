@@ -26,5 +26,3 @@
     <img src="https://media.giphy.com/media/X7alKxtMyDwPZmc3yj/giphy.gif" />
   </a>
 </p>
-
-![Valchan's github stats](https://github-readme-stats.vercel.app/api?username=ValchanOficial&show_icons=true&theme=synthwave&icon_color=FFF&title_color=FFF&text_color=AE63FF)
