@@ -1,9 +1,9 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/linkedin.svg" height="30px" ></a>
-<a href="https://www.facebook.com/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/facebook.svg" height="30px" ></a>
-<a href="https://twitter.com/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/twitter.svg" height="30px" ></a>
-<a href="mailto:valeria_padilha@yahoo.com.br?Subject=Contato&body=Ola%20Valchan" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/yahoo.svg" height="30px" ></a>
-<a href="https://www.instagram.com/ValchanOficial" target="_blank" rel="nofollow, noreferrer, noopener, external"><img  src="https://simpleicons.org/icons/instagram.svg" height="30px" ></a>
+<a href="https://www.linkedin.com/in/ValchanOficial"><img src="https://github.com/ValchanOficial/ValchanOficial/social/linkedin.png" width="30"></img></a>
+<a href="https://www.facebook.com/ValchanOficial"><img src="https://github.com/ValchanOficial/ValchanOficial/social/facebook.png" width="30"></img></a>
+<a href="https://twitter.com/ValchanOficial"><img src="https://github.com/ValchanOficial/ValchanOficial/social/twitter.png" width="30"></img></a>
+<a href="mailto:valeria_padilha@yahoo.com.br?Subject=Contato&body=Ola%20Valchan"><img src="https://github.com/ValchanOficial/ValchanOficial/social/yahoo.png" width="30"></img></a>
+<a href="https://www.instagram.com/ValchanOficial"><img src="https://github.com/ValchanOficial/ValchanOficial/social/instagram.png" width="30"></img></a>
 </p>
 
 
@@ -26,3 +26,7 @@
     <img src="https://media.giphy.com/media/X7alKxtMyDwPZmc3yj/giphy.gif" />
   </a>
 </p>
+
+
+<br><br>
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>
