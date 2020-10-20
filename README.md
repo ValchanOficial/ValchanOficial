@@ -7,13 +7,14 @@
 </p>
 
 
-- 👩🏻‍💻 Programming: Javascript, Typescript, NodeJS, Express, ReactJS, React Native
+- 👩🏻‍💻 Programming: Javascript, Typescript, NodeJS, Express, ReactJS, NextJS
 - 💾 Databases: MongoDB, MySQL, Postgres
-- 🆙 I’m currently learning: NodeJS, ReactJS and React Native
-- ⚙️ Others techs: Docker, K8S, Jest, HTML5, CSS, Sass
+- 💾 Query Language: GraphQL
+- ⚙️ Others techs: Docker, K8S, Jest, HTML5, CSS3, Sass, React Native, Gatsby, TestCafe, AWS
+- 🆙 I’m currently learning and improving: MongoDB, ExpressJS, ReactJS, NodeJS, GraphQL, NextJS
 - 👯 I'm looking to collaborate on the tech communities
 - 🤔 I'm looking for help to improve my English
-- 💡 Facts about me: I love to draw, write, watch anime, read books and study
+- 💡 Facts about me: I love to draw, to write, to watch anime, to read books and to study
 - 👩🏻‍🎓 Undergraduate student: Systems Analysis and Development
 
 <br>
