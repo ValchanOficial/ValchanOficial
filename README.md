@@ -22,9 +22,11 @@
 > "What we know is a drop; What we don't know is an ocean." - Isaac
 > Newton
 
-# Blog posts
+<b>Blog posts:</b>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 <p align="left">
   <a href="https://valchan.com.br/" target="_blank" rel="nofollow, noreferrer, noopener, external">
