@@ -25,6 +25,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Removendo tags HTML e acentos de strings](https://valchan.com.br/remove-tags-html-and-accents/)
+- [Responsively App e BrowserStack](https://valchan.com.br/app-web-browser/)
+- [GitHub Stars](https://valchan.com.br/github-stars/)
+- [Expansion Week](https://valchan.com.br/expansion-week/)
+- [Aprendendo CSS](https://valchan.com.br/learn-css/)
 <!-- BLOG-POST-LIST:END -->
 
 
