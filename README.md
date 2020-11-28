@@ -6,6 +6,8 @@
 <a href="https://www.instagram.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/instagram.png" width="30"></img></a>
 </p>
 
+<img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/valchan_octocat.png" width="200"/>
+
 
 - 👩🏻‍💻 Programming: Javascript, Typescript, NodeJS, Express, ReactJS, NextJS
 - 💾 Databases: MongoDB, MySQL, Postgres
@@ -40,4 +42,6 @@
   </a>
 </p>
 
+
+Octocat build with <a href="http://myoctocat.com" title="MyOctocat">MyOctocat</a><br>
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>
