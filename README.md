@@ -25,11 +25,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube thumbnail](https://valchan.com.br/how-get-a-youtube-video-thumbnail/)
+- [Como obter um texto que esta entre dois valores?](https://valchan.com.br/how-to-get-word-between-two-characters/)
 - [VSCode e extensões](https://valchan.com.br/vscode-extensions/)
 - [Removendo tags HTML e acentos de strings](https://valchan.com.br/remove-tags-html-and-accents/)
 - [Responsively App e BrowserStack](https://valchan.com.br/app-web-browser/)
-- [GitHub Stars](https://valchan.com.br/github-stars/)
-- [Expansion Week](https://valchan.com.br/expansion-week/)
 <!-- BLOG-POST-LIST:END -->
 
 
