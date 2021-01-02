@@ -27,11 +27,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [São iguais?](https://valchan.com.br/sort-javascript-object-by-key-and-check-if-two-objects-are-equal/)
 - [Verificando ou buscando por objetos em um Array](https://valchan.com.br/find-check-objects-in-array/)
-- [YouTube thumbnail](https://valchan.com.br/how-get-a-youtube-video-thumbnail/)
-- [Variável + Expressão Regular](https://valchan.com.br/how-use-a-variable-in-a-regular-expression/)
 - [É um palíndromo?](https://valchan.com.br/is-palindrome/)
-- [Como obter um texto que esta entre dois valores?](https://valchan.com.br/how-to-get-word-between-two-characters/)
+- [Variável + Expressão Regular](https://valchan.com.br/how-use-a-variable-in-a-regular-expression/)
+- [YouTube thumbnail](https://valchan.com.br/how-get-a-youtube-video-thumbnail/)
 <!-- BLOG-POST-LIST:END -->
 
 
