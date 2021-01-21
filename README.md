@@ -28,9 +28,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Buscando e removendo itens duplicados de arrays](https://valchan.com.br/check-and-remove-duplicate-items-in-array/)
+- [E o tal do Spread operator?](https://valchan.com.br/spread-operator/)
 - [São iguais?](https://valchan.com.br/sort-javascript-object-by-key-and-check-if-two-objects-are-equal/)
 - [Verificando ou buscando por objetos em um Array](https://valchan.com.br/find-check-objects-in-array/)
-- [Variável + Expressão Regular](https://valchan.com.br/how-use-a-variable-in-a-regular-expression/)
 - [YouTube thumbnail](https://valchan.com.br/how-get-a-youtube-video-thumbnail/)
 <!-- BLOG-POST-LIST:END -->
 
