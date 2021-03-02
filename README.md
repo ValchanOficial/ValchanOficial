@@ -27,11 +27,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS: clip-path](https://valchan.com.br/clip-path/)
 - [ReactJS + Variáveis de ambiente](https://valchan.com.br/react-env/)
+- [CSS: clip-path](https://valchan.com.br/clip-path/)
 - [Atualizando as dependências do package.json](https://valchan.com.br/update-package-json/)
 - [Você conhece a Fluent API?](https://valchan.com.br/fluent-api/)
-- [E o tal do Spread operator?](https://valchan.com.br/spread-operator/)
+- [Buscando e removendo itens duplicados de arrays](https://valchan.com.br/check-and-remove-duplicate-items-in-array/)
 <!-- BLOG-POST-LIST:END -->
 
 
