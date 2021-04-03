@@ -27,11 +27,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Adicionando imagem padrão quando houver erro](https://valchan.com.br/react-image-replacement/)
 - [Stack, Tab e Drawer](https://valchan.com.br/react-native-routes/)
 - [VSCode + Snippets](https://valchan.com.br/vscode-snippets/)
 - [CSS: clip-path](https://valchan.com.br/clip-path/)
 - [ReactJS + Variáveis de ambiente](https://valchan.com.br/react-env/)
-- [Atualizando as dependências do package.json](https://valchan.com.br/update-package-json/)
 <!-- BLOG-POST-LIST:END -->
 
 
