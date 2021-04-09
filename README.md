@@ -27,10 +27,10 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [[Resolvido] React Native e erros](https://valchan.com.br/react-native-solved-erros/)
 - [Adicionando imagem padrão quando houver erro](https://valchan.com.br/react-image-replacement/)
 - [Stack, Tab e Drawer](https://valchan.com.br/react-native-routes/)
 - [VSCode + Snippets](https://valchan.com.br/vscode-snippets/)
-- [ReactJS + Variáveis de ambiente](https://valchan.com.br/react-env/)
 - [CSS: clip-path](https://valchan.com.br/clip-path/)
 <!-- BLOG-POST-LIST:END -->
 
