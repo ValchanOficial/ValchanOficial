@@ -42,7 +42,7 @@
   </a>
 </p>
 
-If my posts were useful in any way: <br>
+If my posts were useful in any way, you can support <br>
 <a href="https://www.buymeacoffee.com/valchanoficial" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
 </a>
