@@ -44,7 +44,7 @@
 
 If my posts were useful in any way, you can support <br>
 <a href="https://www.buymeacoffee.com/valchanoficial" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee">
 </a>
 
 Octocat build with <a href="http://myoctocat.com" title="MyOctocat">MyOctocat</a><br>
