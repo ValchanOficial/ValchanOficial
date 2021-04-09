@@ -42,6 +42,10 @@
   </a>
 </p>
 
+If my posts were useful in any way: <br>
+<a href="https://www.buymeacoffee.com/valchanoficial" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
+</a>
 
 Octocat build with <a href="http://myoctocat.com" title="MyOctocat">MyOctocat</a><br>
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>
