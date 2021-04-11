@@ -31,7 +31,7 @@
 - [Adicionando imagem padrão quando houver erro](https://valchan.com.br/react-image-replacement/)
 - [Stack, Tab e Drawer](https://valchan.com.br/react-native-routes/)
 - [VSCode + Snippets](https://valchan.com.br/vscode-snippets/)
-- [CSS: clip-path](https://valchan.com.br/clip-path/)
+- [ReactJS + Variáveis de ambiente](https://valchan.com.br/react-env/)
 <!-- BLOG-POST-LIST:END -->
 
 
