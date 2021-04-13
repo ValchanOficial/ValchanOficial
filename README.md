@@ -27,11 +27,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Vamos ligar as pontos com o Linking 😉](https://valchan.com.br/react-native-linking/)
 - [[Resolvido] React Native e erros](https://valchan.com.br/react-native-solved-erros/)
 - [Adicionando imagem padrão quando houver erro](https://valchan.com.br/react-image-replacement/)
 - [Stack, Tab e Drawer](https://valchan.com.br/react-native-routes/)
 - [VSCode + Snippets](https://valchan.com.br/vscode-snippets/)
-- [ReactJS + Variáveis de ambiente](https://valchan.com.br/react-env/)
 <!-- BLOG-POST-LIST:END -->
 
 
