@@ -27,11 +27,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Diferença entre datas](https://valchan.com.br/date-diff/)
 - [Pop( ), Push( ), Shift( ) e Unshift( )](https://valchan.com.br/pop-push-shift-unshift/)
 - [Vamos ligar as pontos com o Linking 😉](https://valchan.com.br/react-native-linking/)
 - [[Resolvido] React Native e erros](https://valchan.com.br/react-native-solved-erros/)
 - [Adicionando imagem padrão quando houver erro](https://valchan.com.br/react-image-replacement/)
-- [Stack, Tab e Drawer](https://valchan.com.br/react-native-routes/)
 <!-- BLOG-POST-LIST:END -->
 
 
