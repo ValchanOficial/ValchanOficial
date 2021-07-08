@@ -9,15 +9,13 @@
 <img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/valchan_octocat.png" width="200"/>
 
 
-- 👩🏻‍💻 Programming: Javascript, Typescript, NodeJS, Express, ReactJS, NextJS
+- 👩🏻‍🎓 Systems Analysis and Development
+- 👩🏻‍💻 Programming: Javascript, Typescript, NodeJS, ExpressJS, ReactJS, NextJS
 - 💾 Databases: MongoDB, MySQL, Postgres
 - 💾 Query Language: GraphQL
-- ⚙️ Others techs: Docker, K8S, Jest, HTML5, CSS3, Sass, React Native, Gatsby, TestCafe, AWS
-- 🆙 I’m currently learning and improving: MongoDB, ExpressJS, ReactJS, NodeJS, GraphQL, NextJS
-- 👯 I'm looking to collaborate on the tech communities
+- ⚙️ Others techs: Docker, K8S, Jest, HTML5, CSS3, Sass, React Native, Gatsby, AWS
 - 🤔 I'm looking for help to improve my English
 - 💡 Facts about me: I love to draw, to write, to watch anime, to read books and to study
-- 👩🏻‍🎓 Undergraduate student: Systems Analysis and Development
 
 <br>
 
