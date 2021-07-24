@@ -25,11 +25,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot](https://valchan.com.br/github-copilot/)
 - [Habilitando e desabilitando o Hyper-V](https://valchan.com.br/disable-enable-hyperv/)
 - [Customizando seu package.json com o NPM](https://valchan.com.br/npm-config-package-json/)
 - [Resetando a senha de seu usuário no WSL](https://valchan.com.br/wsl-reset-pass/)
 - [Diferença entre datas](https://valchan.com.br/date-diff/)
-- [Pop( ), Push( ), Shift( ) e Unshift( )](https://valchan.com.br/pop-push-shift-unshift/)
 <!-- BLOG-POST-LIST:END -->
 
 
