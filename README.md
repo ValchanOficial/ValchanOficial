@@ -25,8 +25,8 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
-- [Os melhores repositórios do Github na minha opnião](https://valchan.com.br/best-github-repositories/)
 - [Barra de progresso ao rolar a página](https://valchan.com.br/progress-bar-on-scroll/)
+- [Os melhores repositórios do Github na minha opnião](https://valchan.com.br/best-github-repositories/)
 - [Como listar e matar um processo pela porta no Windows e Linux](https://valchan.com.br/kill-process-running-on-port/)
 - [Como carregar dados utilizando o evento onClick](https://valchan.com.br/load-items-on-click/)
 - [Team Kanban Practitioner](https://valchan.com.br/team-kanban-practitioner/)
