@@ -25,11 +25,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Como listar e matar um processo pela porta no Windows e Linux](https://valchan.com.br/kill-process-running-on-port/)
+- [Como carregar dados utilizando o evento onClick](https://valchan.com.br/load-items-on-click/)
 - [Team Kanban Practitioner](https://valchan.com.br/team-kanban-practitioner/)
 - [GitHub Copilot](https://valchan.com.br/github-copilot/)
-- [Habilitando e desabilitando o Hyper-V](https://valchan.com.br/disable-enable-hyperv/)
 - [Customizando seu package.json com o NPM](https://valchan.com.br/npm-config-package-json/)
-- [Resetando a senha de seu usuário no WSL](https://valchan.com.br/wsl-reset-pass/)
 <!-- BLOG-POST-LIST:END -->
 
 
