@@ -25,11 +25,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Qual o mês?](https://valchan.com.br/get-month-name/)
+- [Gerando array com dias da semana](https://valchan.com.br/get-weekdays-from-sunday-to-saturday/)
 - [Copiando textos utilizando a API Clipboard](https://valchan.com.br/copy-clipboard-writetext/)
 - [Desabilitando botão de voltar do hardware: Android e iOS](https://valchan.com.br/disable-hardware-back-button/)
 - [Os melhores repositórios do Github na minha opinião](https://valchan.com.br/best-github-repositories/)
-- [Barra de progresso ao rolar a página](https://valchan.com.br/progress-bar-on-scroll/)
-- [Como listar e matar um processo pela porta no Windows e Linux](https://valchan.com.br/kill-process-running-on-port/)
 <!-- BLOG-POST-LIST:END -->
 
 
