@@ -29,7 +29,7 @@
 - [Gerando array com dias da semana](https://valchan.com.br/get-weekdays-from-sunday-to-saturday/)
 - [Copiando textos utilizando a API Clipboard](https://valchan.com.br/copy-clipboard-writetext/)
 - [Desabilitando botão de voltar do hardware: Android e iOS](https://valchan.com.br/disable-hardware-back-button/)
-- [Os melhores repositórios do Github na minha opinião](https://valchan.com.br/best-github-repositories/)
+- [Barra de progresso ao rolar a página](https://valchan.com.br/progress-bar-on-scroll/)
 <!-- BLOG-POST-LIST:END -->
 
 
