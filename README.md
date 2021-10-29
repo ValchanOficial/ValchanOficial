@@ -40,6 +40,8 @@
   </a>
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/output/github-contribution-grid-snake.svg)
+
 If my posts were useful in any way, you can support <br>
 <a href="https://www.buymeacoffee.com/valchanoficial" target="_blank">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee">
