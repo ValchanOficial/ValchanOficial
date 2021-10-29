@@ -11,9 +11,9 @@
 
 <p align="center">
   <a href="https://valchan.com.br/" target="_blank" rel="nofollow, noreferrer, noopener, external">
-    <img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/valchan_octocat.png" width="200"/>
-    <img alt="Logo Valchan" src="https://media.giphy.com/media/X7alKxtMyDwPZmc3yj/giphy.gif" />
-    <img alt="unicorn" src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/unicorn.png" width="150"/>
+    <img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/valchan_octocat.png" width="150"/>
+    <img alt="Logo Valchan" src="https://media.giphy.com/media/X7alKxtMyDwPZmc3yj/giphy.gif" width="400" />
+    <img alt="unicorn" src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/unicorn.png" width="120"/>
   </a>
 </p>
 
