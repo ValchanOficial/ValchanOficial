@@ -43,8 +43,6 @@
 - [Desabilitando botão de voltar do hardware: Android e iOS](https://valchan.com.br/disable-hardware-back-button/)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
-
 ![Snake animation](https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/output/github-contribution-grid-snake.svg)
 
 Octocat build with <a href="http://myoctocat.com" title="MyOctocat">MyOctocat</a><br>
