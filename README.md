@@ -36,11 +36,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Como importar e exportar variáveis de ambiente no Windows?](https://valchan.com.br/how-to-export-and-import-environment-variables/)
+- [Imagem de Background utilizando var inline](https://valchan.com.br/set-background-image-by-var-inline/)
 - [Lint-staged + Husky](https://valchan.com.br/lint-staged-husky/)
 - [Qual o mês?](https://valchan.com.br/get-month-name/)
 - [Gerando array com dias da semana](https://valchan.com.br/get-weekdays-from-sunday-to-saturday/)
-- [Copiando textos utilizando a API Clipboard](https://valchan.com.br/copy-clipboard-writetext/)
-- [Desabilitando botão de voltar do hardware: Android e iOS](https://valchan.com.br/disable-hardware-back-button/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Snake animation](https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/output/github-contribution-grid-snake.svg)
