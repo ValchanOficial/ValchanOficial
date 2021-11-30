@@ -36,11 +36,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Quebrando string em substrings](https://valchan.com.br/break-string-into-array-of-substrings/)
+- [Gerando um código QRCode e realizando o download dele](https://valchan.com.br/generate-qr-code-img-and-download-it/)
+- [Como sobrescrever o arquivo hosts do WSL?](https://valchan.com.br/how-to-override-hosts-file-in-wsl2/)
+- [Reordenando lista de forma aleatória](https://valchan.com.br/shuffle-list/)
 - [Como importar e exportar variáveis de ambiente no Windows?](https://valchan.com.br/how-to-export-and-import-environment-variables/)
-- [Imagem de Background utilizando var inline](https://valchan.com.br/set-background-image-by-var-inline/)
-- [Lint-staged + Husky](https://valchan.com.br/lint-staged-husky/)
-- [Qual o mês?](https://valchan.com.br/get-month-name/)
-- [Gerando array com dias da semana](https://valchan.com.br/get-weekdays-from-sunday-to-saturday/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Snake animation](https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/output/github-contribution-grid-snake.svg)
