@@ -5,9 +5,6 @@
 <a href="mailto:valeria_padilha@yahoo.com.br?Subject=Contato&body=Ola%20Valchan"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/yahoo.png" width="30"></img></a>
 <a href="https://www.instagram.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/instagram.png" width="30"></img></a>
 </p>
-<p align="center">
-<img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee">
-</p>
 
 <p align="center">
   <a href="https://valchan.com.br/" target="_blank" rel="nofollow, noreferrer, noopener, external">
