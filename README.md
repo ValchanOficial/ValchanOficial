@@ -33,11 +33,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
-- [Quebrando string em substrings](https://valchan.com.br/break-string-into-array-of-substrings/)
-- [Gerando um código QRCode e realizando o download dele](https://valchan.com.br/generate-qr-code-img-and-download-it/)
-- [Como sobrescrever o arquivo hosts do WSL?](https://valchan.com.br/how-to-override-hosts-file-in-wsl2/)
-- [Reordenando lista de forma aleatória](https://valchan.com.br/shuffle-list/)
-- [Como importar e exportar variáveis de ambiente no Windows?](https://valchan.com.br/how-to-export-and-import-environment-variables/)
+- [Importação dinâmica](https://valchan.com.br/dynamic-import/)
+- [Online IDEs](https://valchan.com.br/online-ides/)
+- [pageYOffset sempre retornando zero](https://valchan.com.br/pageyoffset-always-returns-zero/)
+- [URLs de compartilhamento](https://valchan.com.br/social-share-urls/)
+- [Utilizando o Google Tag Manager&lpar;GTM&rpar;](https://valchan.com.br/using-google-tag-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Snake animation](https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/output/github-contribution-grid-snake.svg)
