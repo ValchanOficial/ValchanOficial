@@ -21,11 +21,12 @@
 
 <br>
 
-- 👩🏻‍🎓 Systems Analysis and Development
-- 👩🏻‍🎓 In progress: Postgraduate Degree: Systems Development with Java
+- 👩🏻‍🎓 Systems Analysis and Development - Unicesumar
+- 👩🏻‍🎓 In progress: Postgraduate Degree: Fullstack Development - PUCRS
+- 👩🏻‍🎓 In progress: Postgraduate Degree: Systems Development with Java - Unicesumar
 - 💾 Programming: Javascript, Typescript, NodeJS, ExpressJS, ReactJS, NextJS, Gatsby, Java
 - 💾 Databases: MongoDB, MySQL, PostgreSQL
-- 💾 Others techs: GraphQL, Docker, K8S, Jest, HTML5, CSS3, SASS, AWS, TailwindCSS, Apollo, TypeORM, Material-UI, Sentry, Cloudinary, Twilio
+- 💾 Others techs: GraphQL, Docker, K8S, Jest, HTML5, CSS3, SASS, AWS, TailwindCSS, Apollo, TypeORM, Material-UI, Sentry, Cloudinary, Twilio, Golang, NestJS
 - 💾 Package manager + version control system: NPM, Yarn, Git, Github, Bitbucket
 - 🤔 I'm looking for help to improve my English (currently B1)
 - 💡 Facts about me: I love to draw, to write, to watch anime, to read books and to study
