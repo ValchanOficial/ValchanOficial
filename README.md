@@ -40,11 +40,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Rotacionando imagem](https://valchan.com.br/rotate-image/)
 - [Importação dinâmica](https://valchan.com.br/dynamic-import/)
 - [Online IDEs](https://valchan.com.br/online-ides/)
 - [pageYOffset sempre retornando zero](https://valchan.com.br/pageyoffset-always-returns-zero/)
 - [URLs de compartilhamento](https://valchan.com.br/social-share-urls/)
-- [Utilizando o Google Tag Manager&lpar;GTM&rpar;](https://valchan.com.br/using-google-tag-manager/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
