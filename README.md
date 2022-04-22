@@ -40,11 +40,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Ignorando o console no Jest](https://valchan.com.br/ignore-console-log-in-jest/)
+- [Tomcat](https://valchan.com.br/java-tomcat/)
+- [HTML + CSS: Contadores e escopo aninhados](https://valchan.com.br/nested-counters-and-scope/)
 - [Expira e Inspira](https://valchan.com.br/breathing-animation/)
 - [Root import](https://valchan.com.br/root-import-react-typescript/)
-- [Rotacionando imagem](https://valchan.com.br/rotate-image/)
-- [Importação dinâmica](https://valchan.com.br/dynamic-import/)
-- [Online IDEs](https://valchan.com.br/online-ides/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
