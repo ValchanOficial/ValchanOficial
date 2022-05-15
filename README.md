@@ -40,11 +40,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Notação de Big-O](https://valchan.com.br/big-o-notation/)
 - [Shallow Copy VS Deep Copy](https://valchan.com.br/shallow-copy-vs-deep-copy/)
 - [Ignorando o console no Jest](https://valchan.com.br/ignore-console-log-in-jest/)
 - [Tomcat](https://valchan.com.br/java-tomcat/)
 - [HTML + CSS: Contadores e escopo aninhados](https://valchan.com.br/nested-counters-and-scope/)
-- [Expira e Inspira](https://valchan.com.br/breathing-animation/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
