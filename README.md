@@ -1,16 +1,16 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/linkedin.png" width="30"></img></a>
-<a href="https://www.facebook.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/facebook.png" width="30"></img></a>
-<a href="https://twitter.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/twitter.png" width="30"></img></a>
-<a href="mailto:valeria_padilha@yahoo.com.br?Subject=Contato&body=Ola%20Valchan"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/yahoo.png" width="30"></img></a>
-<a href="https://www.instagram.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/instagram.png" width="30"></img></a>
+<a href="https://www.linkedin.com/in/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/linkedin.png" width="30"></img></a>
+<a href="https://www.facebook.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/facebook.png" width="30"></img></a>
+<a href="https://twitter.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/twitter.png" width="30"></img></a>
+<a href="mailto:valeria_padilha@yahoo.com.br?Subject=Contato&body=Ola%20Valchan"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/yahoo.png" width="30"></img></a>
+<a href="https://www.instagram.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/instagram.png" width="30"></img></a>
 </p>
 
 <p align="center">
   <a href="https://valchan.com.br/" target="_blank" rel="nofollow, noreferrer, noopener, external">
-    <img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/valchan_octocat.png" width="150"/>
-    <img alt="Logo Valchan" src="social/Valchan.gif" width="400" />
-    <img alt="unicorn" src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/master/social/unicorn.png" width="120"/>
+    <img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/valchan_octocat.png" width="150"/>
+    <img alt="Logo Valchan" src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/Valchan.gif" width="400" />
+    <img alt="unicorn" src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/unicorn.png" width="120"/>
   </a>
 </p>
 
