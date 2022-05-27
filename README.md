@@ -6,15 +6,6 @@
 <a href="https://www.instagram.com/ValchanOficial"><img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/instagram.png" width="30"></img></a>
 </p>
 
-<p align="center">
-  <a href="https://valchan.com.br/" target="_blank" rel="nofollow, noreferrer, noopener, external">
-    <img src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/valchan_octocat.png" width="150"/>
-    <img alt="Logo Valchan" src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/Valchan.gif" width="400" />
-    <img alt="unicorn" src="https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/main/social/unicorn.png" width="120"/>
-  </a>
-</p>
-
-
 <blockquote style="padding: 0;">
 <p>"A technology-loving developer who constantly seeks knowledge." - Valchan</p>
 </blockquote>
