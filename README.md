@@ -12,9 +12,8 @@
 
 <br>
 
-- 👩🏻‍🎓 Systems Analysis and Development - Unicesumar
 - 👩🏻‍🎓 In progress: Postgraduate Degree: Fullstack Development - PUCRS
-- 👩🏻‍🎓 In progress: Postgraduate Degree: Systems Development with Java - Unicesumar
+- 👩🏻‍🎓 Systems Analysis and Development - Unicesumar
 - 💾 Programming: Javascript, Typescript, NodeJS, ExpressJS, ReactJS, NextJS, Gatsby, Java
 - 💾 Databases: MongoDB, MySQL, PostgreSQL
 - 💾 Others techs: GraphQL, Docker, K8S, Jest, HTML5, CSS3, SASS, AWS, TailwindCSS, Apollo, TypeORM, Material-UI, Sentry, Cloudinary, Twilio, Golang, NestJS
