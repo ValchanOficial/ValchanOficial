@@ -30,11 +30,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitch API](https://valchan.com.br/twitch-api/)
 - [Bootcamp Women Leadership](https://valchan.com.br/women-leadership/)
 - [Encontro Presencial em Atibaia](https://valchan.com.br/venda-direta-gb/)
 - [Iniciativa Fridas](https://valchan.com.br/iniciativa-fridas/)
 - [LinkedIn Premium e GitHub Student Developer Pack](https://valchan.com.br/student-benefits/)
-- [VAR X LET X CONST](https://valchan.com.br/var-let-const/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
