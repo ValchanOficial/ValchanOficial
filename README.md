@@ -30,11 +30,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows + WSL2 + Docker](https://valchan.com.br/install-wsl-with-docker-windows/)
+- [Catastrophic Backtracking](https://valchan.com.br/regexp-catastrophic-backtracking/)
 - [Github Achievements](https://valchan.com.br/github-achievements/)
 - [Twitch API](https://valchan.com.br/twitch-api/)
 - [Bootcamp Women Leadership](https://valchan.com.br/women-leadership/)
-- [Encontro Presencial em Atibaia](https://valchan.com.br/venda-direta-gb/)
-- [Iniciativa Fridas](https://valchan.com.br/iniciativa-fridas/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
