@@ -23,6 +23,9 @@
 
 <br>
 
+Professional with over 3 years of experience in full-stack development using technologies around javascript such as NodeJS, NestJS, NextJS, ReactJS among others, having a career developed in relevant companies in the technology area. Graduated in Systems Analysis and Development, currently specializing with Post-Graduation in Fullstack Development at PUCRS, creative, determined, contributing to problem-solving, and always seeking and sharing knowledge.
+
+<br>
 <blockquote style="padding: 0;">
 <p>"What we know is a drop; What we don't know is an ocean." - Isaac Newton</p>
 </blockquote>
