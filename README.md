@@ -33,11 +33,11 @@ Professional with over 3 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Programa Desenvolve](https://valchan.com.br/desenvolve-2023/)
 - [Conhecendo o Git](https://valchan.com.br/git-github-study/)
 - [NVM + Node + Yarn](https://valchan.com.br/nvm-node-yarn/)
 - [Como adicionar internacionalização no seu projeto React?](https://valchan.com.br/i18n-translation/)
 - [Correlações espúrias](https://valchan.com.br/spurious-correlations/)
-- [Windows + WSL2 + Docker](https://valchan.com.br/install-wsl-with-docker-windows/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
