@@ -14,11 +14,10 @@
 
 - 👩🏻‍🎓 In progress: Postgraduate Degree: Fullstack Development - PUCRS
 - 👩🏻‍🎓 Systems Analysis and Development - Unicesumar
-- 💾 Programming: Javascript, Typescript, NodeJS, ExpressJS, ReactJS, NextJS, Gatsby, Java
+- 💾 Programming: Javascript, Typescript, NodeJS, NestJS, ExpressJS, ReactJS, NextJS
 - 💾 Databases: MongoDB, MySQL, PostgreSQL
-- 💾 Others techs: GraphQL, Docker, K8S, Jest, HTML5, CSS3, SASS, AWS, TailwindCSS, Apollo, TypeORM, Material-UI, Sentry, Cloudinary, Twilio, Golang, NestJS
+- 💾 Others techs: GraphQL, Docker, K8S, Jest, HTML5, CSS3, SASS, AWS, TailwindCSS, Apollo, TypeORM, Material-UI, Sentry, Cloudinary, Twilio, Golang, Java
 - 💾 Package manager + version control system: NPM, Yarn, Git, Github, Bitbucket
-- 🤔 I'm looking for help to improve my English (currently B1)
 - 💡 Facts about me: I love to draw, to write, to watch anime, to read books and to study
 
 <br>
