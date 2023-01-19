@@ -32,11 +32,11 @@ Professional with over 3 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Árvore de Natal no terminal](https://valchan.com.br/print-basic-christmas-tree/)
+- [Como atualizar o git?](https://valchan.com.br/how-to-update-git/)
 - [Programa Desenvolve](https://valchan.com.br/desenvolve-2023/)
 - [Conhecendo o Git](https://valchan.com.br/git-github-study/)
 - [NVM + Node + Yarn](https://valchan.com.br/nvm-node-yarn/)
-- [Como adicionar internacionalização no seu projeto React?](https://valchan.com.br/i18n-translation/)
-- [Correlações espúrias](https://valchan.com.br/spurious-correlations/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
