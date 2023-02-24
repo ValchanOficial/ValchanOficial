@@ -32,11 +32,11 @@ Professional with over 4 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Embaralhando uma lista de competidores](https://valchan.com.br/shuffle-list-of-competitors-and-return-them/)
 - [MongoDB Studio3T - Importando dados de um arquivo JSON](https://valchan.com.br/mongodb-studio3t-how-to-import-json/)
 - [Windows + WSL2 + VPN](https://valchan.com.br/wsl2-with-vpn/)
 - [Como atualizar o git?](https://valchan.com.br/how-to-update-git/)
 - [Árvore de Natal no terminal](https://valchan.com.br/print-basic-christmas-tree/)
-- [Programa Desenvolve](https://valchan.com.br/desenvolve-2023/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
