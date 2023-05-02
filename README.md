@@ -32,11 +32,11 @@ Professional with over 4 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Women that Build Awards 2023](https://valchan.com.br/women-that-build-awards-2023/)
 - [Bancos de dados NoSQL](https://valchan.com.br/nosql-databases/)
 - [Como criar um bot para o Discord](https://valchan.com.br/how-to-create-a-discord-bot/)
-- [Embaralhando uma lista de competidores](https://valchan.com.br/shuffle-list-of-competitors-and-return-them/)
 - [Como agrupar objetos de um array pela chave](https://valchan.com.br/merge-object-by-key/)
-- [MongoDB Studio3T - Importando dados de um arquivo JSON](https://valchan.com.br/mongodb-studio3t-how-to-import-json/)
+- [Embaralhando uma lista de competidores](https://valchan.com.br/shuffle-list-of-competitors-and-return-them/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
