@@ -32,11 +32,11 @@ Professional with over 4 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [WSL2 + Kind + Kubectl](https://valchan.com.br/wsl2-kind-kubectl/)
 - [Gerando uma chave GPG](https://valchan.com.br/generating-a-new-gpg-key/)
 - [Women that Build Awards 2023](https://valchan.com.br/women-that-build-awards-2023/)
 - [Bancos de dados NoSQL](https://valchan.com.br/nosql-databases/)
 - [Como criar um bot para o Discord](https://valchan.com.br/how-to-create-a-discord-bot/)
-- [Como agrupar objetos de um array pela chave](https://valchan.com.br/merge-object-by-key/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
