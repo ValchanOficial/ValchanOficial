@@ -41,21 +41,5 @@ Professional with over 4 years of experience in full-stack development using tec
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
 
-![Snake animation](https://raw.githubusercontent.com/ValchanOficial/ValchanOficial/output/github-contribution-grid-snake.svg)
-
-```
-       ________________ 
-     < Valchan was here > 
-       ---------------- 
-        \   ^__^ 
-         \  (oo)\_______ 
-            (__)\       )\/\ 
-                ||----w | 
-                ||     || 
-```
-
-
-Octocat build with <a href="http://myoctocat.com" title="MyOctocat">MyOctocat</a><br>
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a><br>
-Snake animation <a href="https://github.com/Platane/snk">snk</a><br>
 GitHub Readme Stats <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
