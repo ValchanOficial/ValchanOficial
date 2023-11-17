@@ -32,8 +32,8 @@ Professional with over 4 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
-- [Yarn 4 + Typescript + VSCode](https://valchan.com.br/att-yarn/)
 - [Mimos da Vercel](https://valchan.com.br/v0-vercel/)
+- [Yarn 4 + Typescript + VSCode](https://valchan.com.br/att-yarn/)
 - [v0 da Vercel Labs](https://valchan.com.br/v0-vercel-labs/)
 - [Hacktoberfest 2023](https://valchan.com.br/hacktoberfest-2023/)
 - [Programa Desenvolve 2023](https://valchan.com.br/gratidao-programa-desenvolve-2023/)
