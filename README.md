@@ -15,14 +15,14 @@
 - 👩🏻‍🎓 In progress: Postgraduate Degree: Fullstack Development - PUCRS
 - 👩🏻‍🎓 Systems Analysis and Development - Unicesumar
 - 💾 Programming: Javascript, Typescript, NodeJS, NestJS, ExpressJS, ReactJS, NextJS
-- 💾 Databases: MongoDB, MySQL, PostgreSQL
-- 💾 Others techs: GraphQL, Docker, K8S, Jest, HTML5, CSS3, SASS, AWS, TailwindCSS, Apollo, TypeORM, Material-UI, Sentry, Cloudinary, Twilio, Golang, Java
-- 💾 Package manager + version control system: NPM, Yarn, Git, Github, Bitbucket
+- 💾 Databases: MongoDB, MySQL, PostgreSQL, SQL Server, T-SQL, DynamoDB, Redis
+- 💾 Others techs: GraphQL, Docker, K8S, Jest, HTML5, CSS3, SASS, AWS, TailwindCSS, Apollo, TypeORM, Material-UI, Sentry, Cloudinary, Twilio, Golang, Python, Winston, Axios, BigQuery, GraphQL, TypeORM, Mocha, Chai, Glue, Cloudwatch
+- 💾 Package manager + version control system: NPM, Yarn, Git, Github, Bitbucke, Security Champion, WSL2, Rasa, NLU, Chatbot
 - 💡 Facts about me: I love to draw, to write, to watch anime, to read books and to study
 
 <br>
 
-Professional with over 4 years of experience in full-stack development using technologies around javascript such as NodeJS, NestJS, NextJS, ReactJS among others, having a career developed in relevant companies in the technology area. Graduated in Systems Analysis and Development, currently specializing with Post-Graduation in Fullstack Development at PUCRS, creative, determined, contributing to problem-solving, and always seeking and sharing knowledge.
+Professional with over 5 years of experience in full-stack development using technologies around javascript such as NodeJS, NestJS, NextJS, ReactJS among others, having a career developed in relevant companies in the technology area. Graduated in Systems Analysis and Development, currently specializing with Post-Graduation in Fullstack Development at PUCRS, creative, determined, contributing to problem-solving, and always seeking and sharing knowledge.
 
 <br>
 <blockquote style="padding: 0;">
