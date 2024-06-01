@@ -11,12 +11,20 @@
 
 <br>
 
-- 👩🏻‍🎓 In progress: Postgraduate Degree: Fullstack Development - PUCRS
+- 👩🏻‍🎓 In progress: MBA Full Cycle Architecture - FullCycle
+- 👩🏻‍🎓 Postgraduate Degree: Fullstack Development - PUCRS
 - 👩🏻‍🎓 Systems Analysis and Development - Unicesumar
-- 💾 Programming: Javascript, Typescript, NodeJS, NestJS, ExpressJS, ReactJS, NextJS
-- 💾 Databases: MongoDB, MySQL, PostgreSQL, SQL Server, T-SQL, DynamoDB, Redis
-- 💾 Others techs: GraphQL, Docker, K8S, Jest, HTML5, CSS3, SASS, AWS, TailwindCSS, Apollo, TypeORM, Material-UI, Sentry, Cloudinary, Twilio, Golang, Python, Winston, Axios, BigQuery, GraphQL, TypeORM, Mocha, Chai, Glue, Cloudwatch
-- 💾 Package manager + version control system: NPM, Yarn, Git, Github, Bitbucke, Security Champion, WSL2, Rasa, NLU, Chatbot
+- 💾 Backend: NodeJS, Typescript, Winston, Apollo, ConfigCat, Express.js, Axios, GraphQL, TypeORM, Glue, EC2, Cloudwatch, Python, NestJS, AWS, Prisma, Sqitch, Microservices, Swagger, REST, Golang, Docker + Kubernetes
+- 💾 Frontend: NextJS, ReactJS, Redux, HTML, HTML5, CSS, CSS3, SASS, Material-UI, GraphQL, Apollo Client
+- 💾 Mobile: React Native
+- 💾 Database: PostgreSQL, MongoDB, MySQL, SQL Server, T-SQL, DynamoDB, Oracle, Redis, BigQuery
+- 💾 Monitoring: New Relic, Sentry
+- 💾 Testing: Jest + Supertest, Mocha + Chai, TestCafe, Apollo Server Testing
+- 💾 Mentoring: Desenvolve 2023
+- 💾 Methodologies: Scrum/Kanban (Jira/ Kanbanize), 12 Factor App
+- 💾 Versioning: Git, Github, Bitbucket
+- 💾 Package Manager: NPM, Yarn
+- 💾 Others: Security Champion, WSL2, Rasa, NLU, Chatbot, Messaging, Cloudinary, Twilio
 - 💡 Facts about me: I love to draw, to write, to watch anime, to read books and to study
 
 <br>
