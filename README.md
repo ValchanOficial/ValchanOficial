@@ -39,11 +39,11 @@ Professional with over 5 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [WSL2 + LocalStack](https://valchan.com.br/wsl2-localstack/)
 - [Comandos do VSCode](https://valchan.com.br/vs-code-commands/)
-- [Yarn 4 + Typescript + VSCode](https://valchan.com.br/att-yarn/)
 - [Mimos da Vercel](https://valchan.com.br/v0-vercel/)
+- [Yarn 4 + Typescript + VSCode](https://valchan.com.br/att-yarn/)
 - [v0 da Vercel Labs](https://valchan.com.br/v0-vercel-labs/)
-- [Hacktoberfest 2023](https://valchan.com.br/hacktoberfest-2023/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
