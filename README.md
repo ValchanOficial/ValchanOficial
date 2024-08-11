@@ -39,10 +39,10 @@ Professional with over 5 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Observabilidade](https://valchan.com.br/observability/)
 - [Educa{devas}: Formando educadoras tech! 💜](https://valchan.com.br/reprograma-educa-devas/)
 - [WSL2 + LocalStack](https://valchan.com.br/wsl2-localstack/)
 - [Comandos do VSCode](https://valchan.com.br/vs-code-commands/)
-- [Mimos da Vercel](https://valchan.com.br/v0-vercel/)
 - [Yarn 4 + Typescript + VSCode](https://valchan.com.br/att-yarn/)
 <!-- BLOG-POST-LIST:END -->
   
