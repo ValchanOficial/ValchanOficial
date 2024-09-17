@@ -38,11 +38,11 @@ Professional with over 5 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Workshop #IAmRemarkable](https://valchan.com.br/i-am-remarkable-stardust-zone/)
 - [Integração com a API do Mercado Pago](https://valchan.com.br/mercado-pago-integration/)
 - [GitHub Models](https://valchan.com.br/gitHub-models/)
 - [Observabilidade](https://valchan.com.br/observability/)
 - [Educa{devas}: Formando educadoras tech! 💜](https://valchan.com.br/reprograma-educa-devas/)
-- [WSL2 + LocalStack](https://valchan.com.br/wsl2-localstack/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
