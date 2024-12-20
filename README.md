@@ -38,11 +38,11 @@ Professional with over 5 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [Presente que recebi do time de Segurança da Informação 💙](https://valchan.com.br/security-champion-veteran/)
 - [Gerando música com inteligência artificial](https://valchan.com.br/music-generation-with-ai/)
 - [Hacktoberfest 2024](https://valchan.com.br/hacktoberfest-2024/)
 - [Certificação GitHub Foundations](https://valchan.com.br/github-foundations-certification/)
 - [Workshop #IAmRemarkable](https://valchan.com.br/i-am-remarkable-stardust-zone/)
-- [Integração com a API do Mercado Pago](https://valchan.com.br/mercado-pago-integration/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
