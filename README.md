@@ -38,11 +38,11 @@ Professional with over 5 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [15 lições de 15 anos na área de tecnologia](https://valchan.com.br/15-lessons-from-15-years-in-tech/)
 - [DIO Campus Expert](https://valchan.com.br/embaixadora-dio-campus-expert/)
 - [Bootcamp Microsoft AI for Tech](https://valchan.com.br/openai-services-microsoft-dio/)
 - [WSL2 + Ollama + DeepSeek + Open WebUI](https://valchan.com.br/wsl2-ollama-deepseek-openwebui/)
 - [Um presente especial](https://valchan.com.br/leadership-book/)
-- [Presente que recebi do time de Segurança da Informação 💙](https://valchan.com.br/security-champion-veteran/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
