@@ -38,11 +38,11 @@ Professional with over 6 years of experience in full-stack development using tec
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [O que é MCP?](https://valchan.com.br/mcp/)
 - [Gerenciando Filas com BullMQ + Node.JS + Redis + Docker](https://valchan.com.br/bullmq-nodejs-redis-docker/)
 - [Conselhos de quem atua a mais de 10 anos na área de tecnologia](https://valchan.com.br/advice-in-tech/)
 - [Bootcamp do Bradesco](https://valchan.com.br/bootcamp-bradesco/)
 - [Bootcamp Heineken](https://valchan.com.br/bootcamp-heineken/)
-- [15 lições de 15 anos na área de tecnologia](https://valchan.com.br/15-lessons-from-15-years-in-tech/)
 <!-- BLOG-POST-LIST:END -->
   
 ![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
