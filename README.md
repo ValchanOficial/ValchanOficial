@@ -10,6 +10,7 @@
 
 <br>
 
+- 👩🏻‍🎓 In progress: Postgraduate Degree Tech Developer 360º - Rocketseat
 - 👩🏻‍🎓 In progress: MBA Full Cycle Architecture - FullCycle
 - 👩🏻‍🎓 Postgraduate Degree: Fullstack Development - PUCRS
 - 👩🏻‍🎓 Systems Analysis and Development - Unicesumar
