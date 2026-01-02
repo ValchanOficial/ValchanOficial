@@ -10,8 +10,7 @@
 
 <br>
 
-- 👩🏻‍🎓 In progress: Postgraduate Degree Tech Developer 360º - Rocketseat
-- 👩🏻‍🎓 In progress: MBA Full Cycle Architecture - FullCycle
+- 👩🏻‍🎓 Postgraduate Degree: Tech Developer 360º - Rocketseat
 - 👩🏻‍🎓 Postgraduate Degree: Fullstack Development - PUCRS
 - 👩🏻‍🎓 Systems Analysis and Development - Unicesumar
 - 💾 Backend: NodeJS, Typescript, Winston, Apollo, ConfigCat, Express.js, Axios, GraphQL, TypeORM, Glue, EC2, Cloudwatch, Python, NestJS, AWS, Prisma, Sqitch, Microservices, Swagger, REST, Golang, Docker + Kubernetes
