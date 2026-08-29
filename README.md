@@ -41,7 +41,5 @@
 - [15 lições de 15 anos na área de tecnologia](https://valchan.com.br/15-lessons-from-15-years-in-tech/)
 <!-- BLOG-POST-LIST:END -->
   
-![ValchanOficial's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ValchanOficial)
-
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a><br>
 GitHub Readme Stats <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
