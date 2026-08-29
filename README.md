@@ -10,6 +10,7 @@
 
 <br>
 
+- 👩🏻‍🎓 Postgraduate Degree: Applied AI Engineering - UNIPDS
 - 👩🏻‍🎓 Postgraduate Degree: Tech Developer 360º - Rocketseat
 - 👩🏻‍🎓 Postgraduate Degree: Fullstack Development - PUCRS
 - 👩🏻‍🎓 Systems Analysis and Development - Unicesumar
