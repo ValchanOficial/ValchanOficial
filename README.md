@@ -35,11 +35,11 @@
 <b>Blog posts:</b>
 
 <!-- BLOG-POST-LIST:START -->
+- [O Engenheiro de Software com Mentalidade de Produto](https://valchan.com.br/book-the-product-minded-engineer-1/)
+- [O Engenheiro de Software com Mentalidade de Produto](https://valchan.com.br/book-the-product-minded-engineer-2/)
 - [Pós-Graduação em Engenharia de IA Aplicada](https://valchan.com.br/post-grad-ai/)
 - [O que é MCP?](https://valchan.com.br/mcp/)
 - [Gerenciando Filas com BullMQ + Node.JS + Redis + Docker](https://valchan.com.br/bullmq-nodejs-redis-docker/)
-- [Conselhos de quem atua a mais de 10 anos na área de tecnologia](https://valchan.com.br/advice-in-tech/)
-- [15 lições de 15 anos na área de tecnologia](https://valchan.com.br/15-lessons-from-15-years-in-tech/)
 <!-- BLOG-POST-LIST:END -->
   
 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a><br>
